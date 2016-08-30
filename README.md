@@ -1,0 +1,2 @@
+# AMLEngine
+The AMLEngine is the AutomationML API and contains the CAEX-ClassModel Version 2.15, an AutomationML Validation Engine and specific AutomationML Extensions to the CAEX-ClassModel. The AMLEngine prior to Version 3.4.0 is available as .net3.5 and .net4.0 Versions. The AMLEngine Versions from 3.4.0 and later are .net4.0 Versions. The CAEX-ClassModel is generated from the CAEX-XSD-Schema with Altova XMLSpy.
