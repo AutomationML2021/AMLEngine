@@ -1,0 +1,20 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>AMLEngine Documentation</title>
+</head>
+<body class="vendor-book">
+    <div class="details">
+        <span class="vendor">AutomationML Association</span>
+        <span class="locale">en-us</span>
+        <span class="product">AMLEngine</span>
+        <span class="name">AMLEngine Documentation</span>
+    </div>
+    <div class="package-list">
+        <div class="package">
+            <!-- NOTE: The "name" span value cannot contain any periods! -->
+            <span class="name">AMLEngineDocumentation</span>
+            <a class="current-link" href="AMLEngineDocumentation.mshc">AMLEngineDocumentation.mshc</a>
+        </div>
+    </div>
+</body>
+</html>
